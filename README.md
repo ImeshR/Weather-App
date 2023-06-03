@@ -8,6 +8,4 @@
 https://openweathermap.org/api
 ```
 
-<h2>Search Box</h2>
-
 
